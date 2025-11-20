@@ -1,0 +1,9 @@
+*.pt
+*.pkl
+*.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+out/
+out_augmented/
